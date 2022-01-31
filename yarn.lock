@@ -3790,7 +3790,7 @@ __metadata:
     blink-diff: 1.0.13
     chrome-remote-interface: 0.31.1
     commander: 8.3.0
-    cypress: 9.3.1
+    cypress: 9.4.1
     cypress-file-upload: 5.0.8
     devtools-protocol: 0.0.927104
     execa: 5.1.1
@@ -15753,9 +15753,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cypress@npm:9.3.1":
-  version: 9.3.1
-  resolution: "cypress@npm:9.3.1"
+"cypress@npm:9.4.1":
+  version: 9.4.1
+  resolution: "cypress@npm:9.4.1"
   dependencies:
     "@cypress/request": ^2.88.10
     "@cypress/xvfb": ^1.2.4
@@ -15794,14 +15794,14 @@ __metadata:
     pretty-bytes: ^5.6.0
     proxy-from-env: 1.0.0
     request-progress: ^3.0.0
+    semver: ^7.3.2
     supports-color: ^8.1.1
     tmp: ~0.2.1
     untildify: ^4.0.0
-    url: ^0.11.0
     yauzl: ^2.10.0
   bin:
     cypress: bin/cypress
-  checksum: 6992e0f293618d1dec2cbd278fae08c9c3375ce462a1f767f735b06faa9a52ad375d174f2371103e443f3dc1d5cbb2c93d2ca73204d99bbd845db033d9891270
+  checksum: d068704a1a13b6ab22db2cb6867683d0c2d383c41f4d8ded7529999ed1f2bc929f91edc0a69df56a272230c984458ee8198e007af611860dca6a4a1c918319e8
   languageName: node
   linkType: hard
 
@@ -19907,7 +19907,7 @@ __metadata:
     core-js: 3.20.2
     css-loader: 6.5.1
     css-minimizer-webpack-plugin: 3.4.1
-    cypress: 9.3.1
+    cypress: 9.4.1
     d3: 5.15.0
     d3-force: ^2.1.1
     d3-scale-chromatic: 1.5.0
